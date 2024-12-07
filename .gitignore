@@ -1,0 +1,4 @@
+.pio
+.vscode/
+include/device_conf.h
+assets
